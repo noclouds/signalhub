@@ -1,3 +1,5 @@
+# didlie-signal https://didlie-signal.herokuapp.com/ disallow acess from sites other than didlie.com after production. amazingly simple deployment.
+
 # signalhub
 
 Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
