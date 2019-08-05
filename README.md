@@ -1,5 +1,11 @@
 # didlie-signal https://didlie-signal.herokuapp.com/ disallow acess from sites other than didlie.com after production. amazingly simple deployment.
 
+#API
+
+    method: 'POST',
+    json: message,
+    url: url + '/v1/' + app + '/' + channel
+    
 # signalhub
 
 Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
